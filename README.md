@@ -42,7 +42,7 @@ This benchmark evaluates AI systems' ability to understand and accurately repres
 
 ```bash
 # Clone the repository
-git clone https://github.com/airtrek-ai/triad-rome-benchmark.git
+git clone https://github.com/Mysticbirdie/triad-rome-benchmark.git
 cd triad-rome-benchmark
 
 # Evaluate sample set
