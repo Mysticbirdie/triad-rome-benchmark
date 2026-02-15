@@ -24,8 +24,8 @@ This benchmark evaluates AI systems' ability to understand and accurately repres
 
 ### Full Evaluation Set
 - **222 questions** across 5 categories  
-- Available to qualified researchers via **[airtrek.ai/research](https://airtrek.ai/research)**
-- Access requires institutional affiliation and research proposal approval
+- Available to qualified researchers by emailing **kelly@airtrek.ai**
+- Includes complete methodology and detailed results
 - Maintains competitive advantage while enabling scientific validation
 
 ## Categories
@@ -123,15 +123,17 @@ Each question in the JSONL dataset contains:
 
 ## Access Full Dataset
 
-Researchers interested in accessing the complete 222-question evaluation set should:
+Researchers interested in accessing the complete 222-question evaluation set should email **kelly@airtrek.ai** with:
 
-1. Visit **[airtrek.ai/research](https://airtrek.ai/research)**
-2. Submit research proposal including:
-   - Institutional affiliation
-   - Intended use case
-   - Data security commitments
-3. Sign data usage agreement protecting cultural sovereignty
-4. Receive access credentials for full dataset download
+- Your name and institutional affiliation
+- Brief description of intended research use
+- Data security commitment
+
+You'll receive:
+- Complete 222-question dataset
+- Full methodology documentation
+- Detailed performance analysis
+- Triad Engine technical specifications
 
 ### Access Requirements
 
